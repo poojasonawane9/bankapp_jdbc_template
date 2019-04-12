@@ -1,0 +1,1 @@
+This repo contains BankApp using spring which uses JDBC template
